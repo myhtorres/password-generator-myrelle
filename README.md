@@ -25,16 +25,21 @@ Ideal para quem precisa de senhas fortes para redes sociais, e-mails ou sistemas
    python3 password_generator.py
 
 3. Escolha as opções no menu para gerar sua senha.
-   💻 Exemplo de execução
-Exemplo de como o programa funciona no terminal:
+
 📂 Estrutura do projeto
+
 📦 password-generator-myrelle
+
  ┣ 📜 password_generator.py   # Código principal do gerador
  ┣ 📜 .gitignore              # Arquivos ignorados pelo Git
  ┣ 📜 README.md               # Documentação do projeto
+
+
+    💻 Exemplo de execução
 
 ![Exemplo de execução](print.png)
 
 📝 Licença
 Este projeto é open-source e pode ser usado livremente para estudos e melhorias. 😉
+
 
