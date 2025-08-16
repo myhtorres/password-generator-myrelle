@@ -37,9 +37,13 @@ python3 password_generator.py
 password-generator-myrelle
 
 ├── password_generator.py   # Código principal do gerador
+
 ├── .gitignore              # Arquivos ignorados pelo Git
+
 ├── README.md               # Documentação do projeto
+
 └── screenshot.png          # Exemplo de execução
+
 
 
     💻 Exemplo de execução
@@ -56,6 +60,7 @@ Inserir prints e documentação em Markdown para deixar o projeto mais completo.
 Este projeto é open-source e pode ser usado livremente para estudos e melhorias. 😉
 
 Feito por Myrelle Torres.
+
 
 
 
