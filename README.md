@@ -37,9 +37,10 @@ Ideal para quem precisa de senhas fortes para redes sociais, e-mails ou sistemas
 
     💻 Exemplo de execução
 
-![Exemplo de execução](print.png)
+![Exemplo de execução](screenshot.png)
 
 📝 Licença
 Este projeto é open-source e pode ser usado livremente para estudos e melhorias. 😉
+
 
 
