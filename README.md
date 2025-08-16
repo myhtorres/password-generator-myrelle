@@ -1,4 +1,4 @@
-# 🔑 Gerador de Senhas (simples)
+# 🔐 Gerador de Senhas (simples)
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Open Source](https://img.shields.io/badge/license-MIT-green.svg)
@@ -22,7 +22,9 @@ Um gerador de senhas simples feito em **Python** para praticar programação e v
    git clone https://github.com/myhtorres/password-generator-myrelle.git
 
 2. Acesse a pasta do projeto:
-   cd password-generator-myrelle
+   git clone https://github.com/myhtorres/password-generator-myrelle.git
+cd password-generator-myrelle
+python3 password_generator.py
 
 3. Execute o script:
    python3 password_generator.py
@@ -33,6 +35,7 @@ Um gerador de senhas simples feito em **Python** para praticar programação e v
 📂 Estrutura do projeto
 
 password-generator-myrelle
+
 ├── password_generator.py   # Código principal do gerador
 ├── .gitignore              # Arquivos ignorados pelo Git
 ├── README.md               # Documentação do projeto
@@ -53,6 +56,7 @@ Inserir prints e documentação em Markdown para deixar o projeto mais completo.
 Este projeto é open-source e pode ser usado livremente para estudos e melhorias. 😉
 
 Feito por Myrelle Torres.
+
 
 
 
